@@ -3,12 +3,17 @@ F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-window
 F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\Accounting-practice.runtimeconfig.json
 F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\Accounting-practice.dll
 F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\Accounting-practice.pdb
+F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
 F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\HandyControl.dll
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.csproj.AssemblyReference.cache
+F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\MainWindow\MainWindow.g.cs
+F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Registration\LoanRegistrationPage.g.cs
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\App.g.cs
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice_MarkupCompile.cache
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice_MarkupCompile.lref
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\App.baml
+F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\MainWindow\MainWindow.baml
+F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Registration\LoanRegistrationPage.baml
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.g.resources
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.GeneratedMSBuildEditorConfig.editorconfig
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.AssemblyInfoInputs.cache
@@ -21,8 +26,3 @@ F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-window
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.pdb
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Accounting-practice.genruntimeconfig.cache
 F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\ref\Accounting-practice.dll
-F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\MainWindow\MainWindow.g.cs
-F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Registration\LoanRegistrationPage.g.cs
-F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\MainWindow\MainWindow.baml
-F:\MyProject\Accounting-practice\src\Accounting-practice\obj\Debug\net9.0-windows\Registration\LoanRegistrationPage.baml
-F:\MyProject\Accounting-practice\src\Accounting-practice\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll

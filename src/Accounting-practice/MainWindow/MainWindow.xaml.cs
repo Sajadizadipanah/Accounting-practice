@@ -19,11 +19,12 @@ namespace Accounting_practice.MainWindow
     /// </summary>
     public partial class MainWindow : Window
     {
-        //private readonly MainWindowViewModel _viewModel;
-        public MainWindow()
+        private readonly MainWindowViewModel _viewModel;
+
+        public MainWindow(MainWindowViewModel viewModel)
         {
-            //_viewModel = viewModel;
-            //DataContext = _viewModel;
+            _viewModel = viewModel;
+            DataContext = _viewModel;
             InitializeComponent();
         }
     }
